@@ -36,7 +36,7 @@
   /**
    * The UpdateSettingResponse model module.
    * @module model/UpdateSettingResponse
-   * @version 2.4.2
+   * @version 2.4.3
    */
 
   /**

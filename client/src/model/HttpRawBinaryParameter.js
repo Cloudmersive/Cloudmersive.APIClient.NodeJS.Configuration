@@ -36,7 +36,7 @@
   /**
    * The HttpRawBinaryParameter model module.
    * @module model/HttpRawBinaryParameter
-   * @version 2.4.2
+   * @version 2.4.3
    */
 
   /**

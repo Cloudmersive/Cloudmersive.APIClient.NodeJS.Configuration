@@ -36,7 +36,7 @@
   /**
    * The CreateSettingRequest model module.
    * @module model/CreateSettingRequest
-   * @version 2.4.2
+   * @version 2.4.3
    */
 
   /**

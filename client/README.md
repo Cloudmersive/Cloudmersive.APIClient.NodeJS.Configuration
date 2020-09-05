@@ -5,7 +5,7 @@ Config API lets you easily manage configuration at scale.
 [Cloudmersive Configuration API](https://www.cloudmersive.com/convert-api) provides advanced configuration and orchestration capabilities.
 
 - API version: v1
-- Package version: 2.4.2
+- Package version: 2.4.3
 
 
 ## Installation

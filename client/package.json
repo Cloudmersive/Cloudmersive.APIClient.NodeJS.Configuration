@@ -1,8 +1,8 @@
 {
   "name": "cloudmersive-configuration-api-client",
-  "version": "2.4.2",
+  "version": "2.4.3",
   "description": "Config_API_lets_you_easily_manage_configuration_at_scale_",
-  "license": "Unlicense",
+  "license": "Apache-2.0",
   "main": "src/index.js",
   "scripts": {
     "test": "./node_modules/mocha/bin/mocha --recursive"

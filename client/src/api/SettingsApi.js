@@ -33,7 +33,7 @@
   /**
    * Settings service.
    * @module api/SettingsApi
-   * @version 2.4.2
+   * @version 2.4.3
    */
 
   /**

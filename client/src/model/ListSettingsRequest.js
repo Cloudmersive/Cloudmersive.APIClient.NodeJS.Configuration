@@ -36,7 +36,7 @@
   /**
    * The ListSettingsRequest model module.
    * @module model/ListSettingsRequest
-   * @version 2.4.2
+   * @version 2.4.3
    */
 
   /**
